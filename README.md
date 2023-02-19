@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **abukar455a/abukar455a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![alt text](https://astronomy.com/-/media/Images/News%20and%20Observing/News/2022/08/JamesWebbJupiterimage.jpg?mw=600)
